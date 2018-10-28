@@ -1,4 +1,4 @@
-# Machine Learning Algorithm
+## Machine Learning Algorithm
 
 
 This repository contains a implementation of different Machine Learning Algorithm from Scratch.
